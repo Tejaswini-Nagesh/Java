@@ -1,0 +1,45 @@
+What is an exception?
+
+How does an exception propagate 
+throughout the Java code?
+
+What is the difference between checked 
+and unchecked exceptions?
+
+What is the use of try-catch block in Java?
+
+What is the difference between throw and 
+throws?
+
+What is the use of the finally block?
+
+What’s the base class of all exception 
+classes?
+
+What is Java Enterprise Edition (Java EE?
+Questions
+Q.1
+
+Q.2
+
+Q.3
+
+Q.4
+
+Q.5
+
+Q.6
+
+Q.7
+
+Q.8
+7
+Questions
+What is the difference between a Servlet 
+and a JSP?
+
+What is the purpose of the Java 
+Persistence API (JPA)?
+
+What is the difference between stateful 
+and stateless session beans
